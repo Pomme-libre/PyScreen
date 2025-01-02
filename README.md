@@ -9,3 +9,6 @@
 ・os  
 ・sys  
 ・shutil  
+
+## Usage
+・You make a copy **ScreenShotApp.py**.
