@@ -6,4 +6,6 @@
 ・Pynput  
 
 ### Standard Library
-・os ・sys ・shutil
+・os  
+・sys  
+・shutil  
