@@ -1,0 +1,13 @@
+[project]
+name = "screenshot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=11.0.0",
+    "pyautogui>=0.9.54",
+    "pynput>=1.7.7",
+    "pyscreeze>=1.0.1",
+    "pyside6==6.8.1",
+]
