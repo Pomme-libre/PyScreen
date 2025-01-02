@@ -17,3 +17,9 @@
 4. Please Install **pip install pyside6 pyautogui pynput** or **uv add pyside6 pyautogui pynput**.
 5. Please start Virtual Environment, **source VENAME/bin/activate** or **. .venv/bin/activate**.
 6. Execute Python File, **python ScreenShot.py** or **uv run ScreenShot.py**.
+
+## How to use
+1. Please push a **Range Selection** Button.
+2. Please left-click on the **top-left** and **bottom-right** corners of the area you want to capture on the screen.
+3. Please push a **View Button**.
+4. If you save a ScreenShot, please push a **Save Button**.
