@@ -169,7 +169,6 @@ class MainWidget(QtWidgets.QWidget):
     @QtCore.Slot()
     def image_reset(self):
         self.preview_label.setText("Image")
-        self.preview_label.adjustSize()
         self.setGeometry(1200, 50, 280, 270)
 
     # ウィンドウの終了
